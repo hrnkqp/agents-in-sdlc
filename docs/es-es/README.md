@@ -6,7 +6,7 @@ authors:
 lastUpdated: 2026-09-28
 ---
 
-Elige un taller según lo que quieras aprender y el nivel de profundidad que busques. **Primeros pasos** ofrece una introducción guiada a GitHub Copilot, mientras que **Desarrollo en escenarios reales** utiliza una aplicación completa y el backlog de un equipo para practicar flujos de trabajo orientados a producción.
+Elige un taller según lo que quieras aprender y el nivel de profundidad que busques. **Primeros pasos** ofrece una introducción guiada a GitHub Copilot, mientras que **Desarrollo en escenarios reales** utiliza una aplicación completa y la lista de trabajo pendiente de un equipo para practicar flujos de trabajo orientados a producción.
 
 ## Primeros pasos
 
@@ -14,15 +14,15 @@ Comienza con una experiencia guiada y específica que presenta las capacidades p
 
 ### [Recorrido por la aplicación GitHub Copilot][first-steps-app]
 
-Crea un cuestionario sobre el espacio desde una carpeta vacía, publícalo en GitHub, implementa una incidencia, completa una revisión de Copilot, programa una automatización y explora un flujo de trabajo con Canvas.
+Crea un Space Quiz desde una carpeta vacía, publícalo en GitHub, implementa una incidencia, completa una revisión de Copilot, programa una automatización y explora un flujo de trabajo con Canvas.
 
 ### [Primeros pasos con GitHub Copilot CLI][first-steps-cli]
 
-Crea el mismo cuestionario desde la terminal, revisa las diferencias, ejecuta sesiones en paralelo en árboles de trabajo, planifica antes de editar y crea, combina y delega solicitudes de incorporación de cambios sin salir del shell.
+Crea el mismo Space Quiz desde la terminal, revisa las diferencias, ejecuta sesiones en paralelo en árboles de trabajo, planifica antes de editar y crea, combina y delega solicitudes de incorporación de cambios sin salir del shell.
 
 ### [Primeros pasos con Visual Studio Code][first-steps-vscode]
 
-Crea el cuestionario en VS Code, pruébalo en el explorador integrado, publícalo con Control de código fuente, trabaja con incidencias y solicitudes de incorporación de cambios mediante las herramientas de GitHub y delega trabajo a una sesión en la nube.
+Crea el Space Quiz en VS Code, pruébalo en el explorador integrado, publícalo con Control de código fuente, trabaja con incidencias y solicitudes de incorporación de cambios mediante las herramientas de GitHub y delega trabajo a una sesión en la nube.
 
 ## Desarrollo en escenarios reales
 
@@ -40,4 +40,4 @@ Elige entre GitHub Copilot CLI, la aplicación GitHub Copilot, el agente de GitH
 [first-steps-app]: first-steps/copilot-app/
 [first-steps-cli]: first-steps/copilot-cli/
 [first-steps-vscode]: first-steps/vscode/
-[real-world-development]: ../real-world-development/
+[real-world-development]: real-world-development/
